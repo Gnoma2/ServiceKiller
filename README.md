@@ -27,6 +27,15 @@ La versión pública actual es **V1.1.3.01** y se distribuye bajo **GPL-3.0-only
   <img src="ServiceKiller_README.png" alt="Interfaz de ServiceKiller v1.1.3.01" width="100%">
 </p>
 
+## Instalación rápida
+
+1. Descarga `ServiceKiller-v1.1.3.01-win-x64.zip` desde [Releases](https://github.com/Gnoma2/ServiceKiller/releases/latest).
+2. Extrae **todo el contenido del ZIP** en una carpeta.
+3. Mantén `ServiceKiller.exe` y `ServiceKiller.exe.config` juntos en la misma carpeta.
+4. Ejecuta `ServiceKiller.exe` **como administrador**.
+
+> ServiceKiller no utiliza instalador. Antes de aplicar cambios, revisa el perfil y las acciones seleccionadas.
+
 ## Qué hace
 
 ServiceKiller ofrece tres perfiles predefinidos —**Conservador**, **Equilibrado** y **Agresivo**— y permite revisar las acciones antes de aplicarlas. El catálogo incluye servicios de Windows, Game Bar/Game DVR, aplicaciones residentes y mecanismos de inicio automático. El programa guarda el estado original de los componentes respaldables para poder restaurarlos.
