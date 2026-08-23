@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ServiceKiller_256.png" alt="ServiceKiller" width="140">
+</p>
+
 # ServiceKiller
 [![Release](https://img.shields.io/github/v/release/Gnoma2/ServiceKiller?display_name=tag)](https://github.com/Gnoma2/ServiceKiller/releases/latest)
 [![Build](https://github.com/Gnoma2/ServiceKiller/actions/workflows/build.yml/badge.svg)](https://github.com/Gnoma2/ServiceKiller/actions/workflows/build.yml)
