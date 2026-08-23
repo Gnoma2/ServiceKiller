@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceKillerV1", "ServiceKillerV1.csproj", "{C07CD810-25D0-4A47-B840-9C338DA3B941}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {C07CD810-25D0-4A47-B840-9C338DA3B941}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+        {C07CD810-25D0-4A47-B840-9C338DA3B941}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+        {C07CD810-25D0-4A47-B840-9C338DA3B941}.Release|Any CPU.ActiveCfg = Release|AnyCPU
+        {C07CD810-25D0-4A47-B840-9C338DA3B941}.Release|Any CPU.Build.0 = Release|AnyCPU
+    EndGlobalSection
+EndGlobal
