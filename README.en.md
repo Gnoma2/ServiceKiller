@@ -26,6 +26,15 @@ Current public version: **V1.1.3.01**. License: **GPL-3.0-only**.
   <img src="ServiceKiller_README.png" alt="ServiceKiller v1.1.3.01 interface" width="100%">
 </p>
 
+## Quick installation
+
+1. Download `ServiceKiller-v1.1.3.01-win-x64.zip` from [Releases](https://github.com/Gnoma2/ServiceKiller/releases/latest).
+2. Extract **all contents of the ZIP** into a folder.
+3. Keep `ServiceKiller.exe` and `ServiceKiller.exe.config` together in the same folder.
+4. Run `ServiceKiller.exe` **as administrator**.
+
+> ServiceKiller does not use an installer. Before applying changes, review the selected profile and actions.
+
 ## Main features
 
 ServiceKiller provides **Conservative**, **Balanced** and **Aggressive** profiles, a preview before applying changes, persistent restoration journals, and a temporary-until-reboot mode.
