@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="ServiceKiller_256.png" alt="ServiceKiller" width="140">
+</p>
+
 # ServiceKiller
+[![Release](https://img.shields.io/github/v/release/Gnoma2/ServiceKiller?display_name=tag)](https://github.com/Gnoma2/ServiceKiller/releases/latest)
+[![Build](https://github.com/Gnoma2/ServiceKiller/actions/workflows/build.yml/badge.svg)](https://github.com/Gnoma2/ServiceKiller/actions/workflows/build.yml)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0--only-blue.svg)](LICENSE)
+[![Validated on Windows 11](https://img.shields.io/badge/Validated-Windows%2011%20Pro%2025H2-0078D4?logo=windows11&logoColor=white)](#)
 
 **ServiceKiller** is an open-source Windows utility designed to reduce selected background activity through **reversible** changes to services, processes, startup entries and specific system settings.
 
@@ -8,6 +16,9 @@
 Current public version: **V1.1.3.01**. License: **GPL-3.0-only**.
 
 [README en español](README.md)
+<p align="center">
+  <img src="ServiceKiller_README.png" alt="ServiceKiller v1.1.3.01 interface" width="100%">
+</p>
 
 ## Main features
 
