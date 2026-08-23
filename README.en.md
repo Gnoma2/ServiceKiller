@@ -8,6 +8,12 @@
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0--only-blue.svg)](LICENSE)
 [![Validated on Windows 11](https://img.shields.io/badge/Validated-Windows%2011%20Pro%2025H2-0078D4?logo=windows11&logoColor=white)](#)
 
+<p align="center">
+  <a href="https://github.com/Gnoma2/ServiceKiller/releases/latest">
+    <strong>⬇ Download latest release</strong>
+  </a>
+</p>
+
 **ServiceKiller** is an open-source Windows utility designed to reduce selected background activity through **reversible** changes to services, processes, startup entries and specific system settings.
 
 > **Currently validated platform:** Windows 11 Pro 25H2 x64, build 26200.  
