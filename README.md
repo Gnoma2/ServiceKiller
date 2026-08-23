@@ -36,6 +36,16 @@ La versión pública actual es **V1.1.3.01** y se distribuye bajo **GPL-3.0-only
 
 > ServiceKiller no utiliza instalador. Antes de aplicar cambios, revisa el perfil y las acciones seleccionadas.
 
+## Verificar la descarga
+
+La Release incluye `SHA256SUMS.txt` para comprobar la integridad de los archivos publicados.
+
+En PowerShell, desde la carpeta donde descargaste el ZIP:
+
+```powershell
+Get-FileHash .\ServiceKiller-v1.1.3.01-win-x64.zip -Algorithm SHA256
+```
+
 ## Qué hace
 
 ServiceKiller ofrece tres perfiles predefinidos —**Conservador**, **Equilibrado** y **Agresivo**— y permite revisar las acciones antes de aplicarlas. El catálogo incluye servicios de Windows, Game Bar/Game DVR, aplicaciones residentes y mecanismos de inicio automático. El programa guarda el estado original de los componentes respaldables para poder restaurarlos.
