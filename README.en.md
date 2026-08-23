@@ -35,6 +35,18 @@ Current public version: **V1.1.3.01**. License: **GPL-3.0-only**.
 
 > ServiceKiller does not use an installer. Before applying changes, review the selected profile and actions.
 
+## Verify the download
+
+The Release includes `SHA256SUMS.txt` so you can verify the integrity of the published files.
+
+In PowerShell, from the folder where you downloaded the ZIP:
+
+```powershell
+Get-FileHash .\ServiceKiller-v1.1.3.01-win-x64.zip -Algorithm SHA256
+```
+
+The result must match the SHA-256 value listed in `SHA256SUMS.txt`.
+
 ## Main features
 
 ServiceKiller provides **Conservative**, **Balanced** and **Aggressive** profiles, a preview before applying changes, persistent restoration journals, and a temporary-until-reboot mode.
