@@ -9,6 +9,10 @@ La versión pública actual es **V1.1.3.01** y se distribuye bajo **GPL-3.0-only
 
 [English README](README.en.md)
 
+<p align="center">
+  <img src="ServiceKiller_README.png" alt="Interfaz de ServiceKiller v1.1.3.01" width="100%">
+</p>
+
 ## Qué hace
 
 ServiceKiller ofrece tres perfiles predefinidos —**Conservador**, **Equilibrado** y **Agresivo**— y permite revisar las acciones antes de aplicarlas. El catálogo incluye servicios de Windows, Game Bar/Game DVR, aplicaciones residentes y mecanismos de inicio automático. El programa guarda el estado original de los componentes respaldables para poder restaurarlos.
