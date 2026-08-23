@@ -9,7 +9,7 @@
 [![Validated on Windows 11](https://img.shields.io/badge/Validated-Windows%2011%20Pro%2025H2-0078D4?logo=windows11&logoColor=white)](#)
 
 <p align="center">
-  <a href="https://github.com/Gnoma2/ServiceKiller/releases/latest">
+  <a href="https://github.com/Gnoma2/ServiceKiller/releases/download/v1.1.3.01/ServiceKiller-v1.1.3.01-win-x64.zip">
     <strong>⬇ Descargar última versión</strong>
   </a>
 </p>
