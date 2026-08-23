@@ -1,0 +1,44 @@
+# Visual Studio / .NET Framework
+.vs/
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Repository-local build output
+artifacts/
+
+# Release binaries are published via GitHub Releases, not committed
+*.exe
+*.dll
+
+# Certificates / signing material
+*.pfx
+*.p12
+*.cer
+*.key
+*.snk
+
+# Logs / diagnostics / journals
+*.log
+active-state.json
+session-state.json
+last-session-restore-verification.txt
+ServiceKiller-session.log
+
+# OS/editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
